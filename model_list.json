@@ -40,6 +40,8 @@
             "dollsfrontline/95type_405/destroy",
             "dollsfrontline/95type_405/normal",
 	    "dollsfrontline/ags-30",
+            "dollsfrontline/ak12_2402/destroy",
+	    "dollsfrontline/ak12_2402/normal",
             "dollsfrontline/dsr50_1801/destroy",
 	    "dollsfrontline/dsr50_1801/normal",
             "dollsfrontline/dsr50_2101/destroy",
@@ -106,6 +108,9 @@
         "ryoufuku",
         "sagiri",
         "sakura"
+	"snow_miku"
+	"terisa"
+	"xisitina"
     ],
     "messages": [
         "阿尔杰塔的女仆~Alice",
@@ -144,5 +149,8 @@
         "阿尔杰塔的女仆~ryoufuku",
         "阿尔杰塔的女仆~sagiri",
         "阿尔杰塔的女仆~sakura"
+	"阿尔杰塔的女仆~snow_miku"
+	"阿尔杰塔的女仆~terisa"
+	"阿尔杰塔的女仆~xisitina"
     ]
 }
