@@ -2,13 +2,36 @@
     "models": [
         "Alice",
         [
-		    "bilibili-live/1",
-		    "bilibili-live/2"
-		], 
-		[
-		    "bronya/1",
-		    "bronya/2"
-		],
+            "HyperdimensionNeptunia/neptune_classic",
+            "HyperdimensionNeptunia/nepnep",
+            "HyperdimensionNeptunia/neptune_santa",
+            "HyperdimensionNeptunia/nepmaid",
+            "HyperdimensionNeptunia/nepswim",
+            "HyperdimensionNeptunia/noir_classic",
+            "HyperdimensionNeptunia/noir",
+            "HyperdimensionNeptunia/noir_santa",
+            "HyperdimensionNeptunia/noireswim",
+            "HyperdimensionNeptunia/blanc_classic",
+            "HyperdimensionNeptunia/blanc_normal",
+            "HyperdimensionNeptunia/blanc_swimwear",
+            "HyperdimensionNeptunia/vert_classic",
+            "HyperdimensionNeptunia/vert_normal",
+            "HyperdimensionNeptunia/vert_swimwear",
+            "HyperdimensionNeptunia/nepgear",
+            "HyperdimensionNeptunia/nepgear_extra",
+            "HyperdimensionNeptunia/nepgearswim",
+            "HyperdimensionNeptunia/histoire",
+            "HyperdimensionNeptunia/histoirenohover"
+        ],
+        "Kobayaxi",
+        [
+	    "bilibili-live/1",
+	    "bilibili-live/2"
+	], 
+	[
+	    "bronya/1",
+	    "bronya/2"
+	],
         "chiaki_kitty",
         "chitose",
 		[
@@ -49,48 +72,17 @@
             "dollsfrontline/vector_1901/destroy",
 	    "dollsfrontline/vector_1901/normal"
         ],
-		[
-		    "Epsilon/1",
-		    "Epsilon/2"
-		],
         "fox",
         "hallo_16",
         "hibiki",
-		[
-		    "high/1",
-		    "high/2"
-		],
-        "hijiki",
+	[
+	    "high/1",
+	    "high/2"
+	],
         "himeko",
-        [
-            "HyperdimensionNeptunia/neptune_classic",
-            "HyperdimensionNeptunia/nepnep",
-            "HyperdimensionNeptunia/neptune_santa",
-            "HyperdimensionNeptunia/nepmaid",
-            "HyperdimensionNeptunia/nepswim",
-            "HyperdimensionNeptunia/noir_classic",
-            "HyperdimensionNeptunia/noir",
-            "HyperdimensionNeptunia/noir_santa",
-            "HyperdimensionNeptunia/noireswim",
-            "HyperdimensionNeptunia/blanc_classic",
-            "HyperdimensionNeptunia/blanc_normal",
-            "HyperdimensionNeptunia/blanc_swimwear",
-            "HyperdimensionNeptunia/vert_classic",
-            "HyperdimensionNeptunia/vert_normal",
-            "HyperdimensionNeptunia/vert_swimwear",
-            "HyperdimensionNeptunia/nepgear",
-            "HyperdimensionNeptunia/nepgear_extra",
-            "HyperdimensionNeptunia/nepgearswim",
-            "HyperdimensionNeptunia/histoire",
-            "HyperdimensionNeptunia/histoirenohover"
-        ],
-        "iio",
         "illyasviel",
-        "izumi",
-        "jin",
         "kanzaki",
         "kiana",
-        "Kobayaxi",
         "kuroko",
         "kurumi",
         "len",
@@ -104,12 +96,11 @@
         "model_6",
         "moon",
         "murakumo",
-        "penchan",
-		[
-		    "platelet/1",
-		    "platelet/2",
-		    "platelet/3"			
-		],
+	[
+	    "platelet/1",
+	    "platelet/2",
+	    "platelet/3"			
+	],
         "redeemer",
         "rem",
         "ryoufuku",
@@ -118,6 +109,8 @@
     ],
     "messages": [
         "阿尔杰塔的女仆~Alice",
+        "阿尔杰塔的女仆~HyperdimensionNeptunia",
+        "阿尔杰塔的女仆~Kobayaxi",
         "阿尔杰塔的女仆~bilibili-live",
         "阿尔杰塔的女仆~bronya",
         "阿尔杰塔的女仆~chiaki_kitty",
@@ -125,21 +118,13 @@
         "阿尔杰塔的女仆~dollsfrontline",
         "阿尔杰塔的女仆~Epsilon",
         "阿尔杰塔的女仆~fox",
-        "阿尔杰塔的女仆~gf",
         "阿尔杰塔的女仆~hallo_16",
-        "阿尔杰塔的女仆~haruto",
         "阿尔杰塔的女仆~hibiki",
         "阿尔杰塔的女仆~high",
-        "阿尔杰塔的女仆~hijiki",
         "阿尔杰塔的女仆~himeko",
-        "阿尔杰塔的女仆~HyperdimensionNeptunia",
-        "阿尔杰塔的女仆~iio",
         "阿尔杰塔的女仆~illyasviel",
-        "阿尔杰塔的女仆~izumi",
-        "阿尔杰塔的女仆~jin",
         "阿尔杰塔的女仆~kanzaki",
         "阿尔杰塔的女仆~kiana",
-        "阿尔杰塔的女仆~Kobayaxi",
         "阿尔杰塔的女仆~kuroko",
         "阿尔杰塔的女仆~kurumi",
         "阿尔杰塔的女仆~len",
@@ -153,7 +138,6 @@
         "阿尔杰塔的女仆~model_6",
         "阿尔杰塔的女仆~moon",
         "阿尔杰塔的女仆~murakumo",
-        "阿尔杰塔的女仆~penchan",
         "阿尔杰塔的女仆~platelet",
         "阿尔杰塔的女仆~redeemer",
         "阿尔杰塔的女仆~rem",
