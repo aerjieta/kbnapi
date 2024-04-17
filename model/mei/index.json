@@ -5,6 +5,11 @@
     "textures": [
         "textures/texture_00.png"
     ],
+    "layout": {
+        "center_x": 0.0,
+        "center_y": 0.0,
+        "width": 0.8
+    },
     "motions": {
         "shake": [
             {"file": "motions/7.mtn", "sound": "sounds/mei_live2d_001.wav", "text": 81538, "sound_delay": -2}
