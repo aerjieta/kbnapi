@@ -6,6 +6,11 @@
 	"textures":[
 		"model.1024/texture_00.png"
 	],
+        "layout": {
+         "center_x": 0.0,
+         "center_y": 0.0,
+         "width": 1.9
+        },
 	"motions":{
 		"":[
 			{"file":"motions/broken_1.mtn"},
