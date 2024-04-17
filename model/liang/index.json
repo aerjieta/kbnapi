@@ -7,9 +7,9 @@
 	"physics": "json/physics.json",
 	"pose": "json/pose.json",
 	"layout": {
-		"width": 2.7,
+		"width": 1,
 		"center_x": 0,
-		"center_y": -0.28
+		"center_y": 0
 	},
 	"hit_areas": [
 		{
