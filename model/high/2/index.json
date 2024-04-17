@@ -5,6 +5,11 @@
 	"textures": [
 		"textures/texture_00.png"
 	],
+        "layout": {
+        "center_x": 0.0,
+        "center_y": 0.0,
+        "width": 0.7
+        },
 	"hit_areas_custom": {
 		"head_x": [0, 0],
 		"head_y": [0, 0],
