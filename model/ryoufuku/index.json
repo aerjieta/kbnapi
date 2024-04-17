@@ -6,6 +6,11 @@
 		"ryoufuku.1024/L2DOTH_R_01.png",
 		"ryoufuku.1024/L2DOTH_R_02.png"
 	],
+        "layout": {
+        "center_x": 0.0,
+        "center_y": 0.0,
+        "width": 0.6
+        },
 	"motions":{
 		"idle":[
 			{
