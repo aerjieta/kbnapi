@@ -5,6 +5,11 @@
 		"/delisha.2048/texture_00.png",
 		"/delisha.2048/texture_01.png"
 	],
+        "layout": {
+        "center_x": 0.0,
+        "center_y": 0.0,
+        "width": 0.8
+        },
 	"motions":{
 		"shake":[
 			{"file":"/motions/001.mtn","sound":"/sound/theresa_live2d_001.wav","text":155060,"sound_delay":-1}
