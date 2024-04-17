@@ -4,6 +4,11 @@
 	"textures":[
 		"Texture2D/texture_00.png"
 	],
+        "layout": {
+        "center_x": 0.0,
+        "center_y": 0.0,
+        "width": 0.9
+        },
 	"motions":{
 		"flick_head":[
 			{"file":"motions/1.mtn"}
